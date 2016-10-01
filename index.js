@@ -18,7 +18,5 @@ app.get('/:keyword', (req, res) => {
 	});
 });
 
-//apps.twitter.com
-
 app.listen(1337);
 console.log('Check out 127.0.0.1:1337');
