@@ -1,6 +1,6 @@
 # Drake Words
 
-Drake Words ([@DrakeVocab](https://twitter.com/DrakeVocab)) is a cron job that tweets out interesting words, their definitions, and a randomly selected Drake GIF courtesy of [giphy.com](http://giphy.com/). 
+Drake Words ([@DrakeVocab](https://twitter.com/DrakeVocab)) is a bot that tweets out interesting words, their definitions, and a randomly selected Drake GIF courtesy of [giphy.com](http://giphy.com/). 
 
 ## FAQs
 
